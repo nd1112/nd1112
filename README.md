@@ -9,4 +9,3 @@
 
 [![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=nd1112)](https://github.com/anuraghazra/github-readme-stats)
 
-ghs -u <nd1112>
